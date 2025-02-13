@@ -76,24 +76,29 @@ _This game makes use of several important programming concepts:_
 
 
 **📸 Screenshots**
+<hr>
 
 **_When you start the game you begin with chapter one diplayed as follows:_**
-===
 
  <img width="538" alt="Screenshot 2025-02-14 at 00 09 28" src="https://github.com/user-attachments/assets/fd3e51ae-535d-49cf-96d8-c6318e6156fd" />
 
+<hr>
+
 **_How questions are diplayed:_**
-===
 
  <img width="377" alt="Screenshot 2025-02-14 at 00 04 42" src="https://github.com/user-attachments/assets/fc09cf7b-aee5-40a4-83db-434365fd96e1" />
 
+<hr>
+
 **_If you chose a) than you get this display:_**
-===
+
 
  <img width="550" alt="Screenshot 2025-02-14 at 00 08 33" src="https://github.com/user-attachments/assets/f2d3775a-e7ed-45ab-b410-17cbbaabb9f8" />
 
+ <hr>
+
 **_If you chose the wrong answer the following display will apear:_**
-===
+
 
 <img width="556" alt="Screenshot 2025-02-14 at 00 09 00" src="https://github.com/user-attachments/assets/467557b0-1390-4f34-8839-a3536d884cec" />
 
